@@ -1,4 +1,6 @@
 # 基于MCU的数字钟设计
+[English](https://github.com/Zhiw-Zhang/Digital-Clock/edit/main/README.md) | 中文
+
 ## 开发平台
 - 单片机：德州仪器（TI）的MSPM0L1306开发板；
 - 开发环境：Keil，集成了SysConfig图形化配置工具。
