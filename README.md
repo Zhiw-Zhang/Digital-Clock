@@ -1,6 +1,6 @@
 # MCU-Based Digital Clock Design
 
-Chinese version: [README.zh-CN.md](README.zh-CN.md)
+English | [中文](README.zh-CN.md)
 
 ## Development Platform
 - MCU: Texas Instruments (TI) MSPM0L1306 development board
